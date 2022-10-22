@@ -1,3 +1,5 @@
+**tl;dr** `locus` is ~5x faster than `geolix`
+
 ```console
 $ MIX_ENV=bench mix run bench/lookup.exs
 Operating System: macOS
